@@ -54,3 +54,7 @@ interbank-academy-25/
 ├── **interbank-academy-25.csproj**  → Configuración del proyecto.
 ├── **interbank-academy-25.sln**     → Solución de Visual Studio.
 └── **Program.cs**                   → Punto de entrada (Configuración de servicios y middleware).
+
+
+RESULTADO CUANDO SE ESTA CORRIENDO LA APLICACIÓN - VERIFICAR EL SWAGGER 
+![image](https://github.com/user-attachments/assets/b243641e-425c-49fd-8764-b5ceacf9c5be)
