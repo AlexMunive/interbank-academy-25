@@ -14,6 +14,7 @@
   2.3 en la terminar, poner la ruta del proyecto y ejecutar dotnet restore
   2.4 para ejecutar el proyecto correr en la terminal "dotnet run"
   2.5 tener en cuenta la ruta correcta para que pueda leer el archivo csv. (tener consideración)
+  2.6 cuando ya esta corriendo la aplicación colocar: http://localhost:5153/swagger/index.html en el navegador, ejecutar la api para ver los resultados tanto en el swagger como en la terminal
 
 3. Enfoque y Solución: (Arquitectura por Capas)
   3.1 presentación; ya que se esta usando controller para hacer peticiones http
