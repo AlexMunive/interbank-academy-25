@@ -58,3 +58,7 @@ interbank-academy-25/
 
 RESULTADO CUANDO SE ESTA CORRIENDO LA APLICACIÓN - VERIFICAR EL SWAGGER 
 ![image](https://github.com/user-attachments/assets/b243641e-425c-49fd-8764-b5ceacf9c5be)
+
+RESULTADO SWAGGER: ![image](https://github.com/user-attachments/assets/bdb41038-bc49-4b10-b5d6-843d183f1d27)
+RESULTADO EN LA TERMINAL: ![image](https://github.com/user-attachments/assets/47cbd9e5-ff7b-4150-9f18-545fe87699da)
+
