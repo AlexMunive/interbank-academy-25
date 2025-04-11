@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\interbank-academy-25.props" />
+</Project>
